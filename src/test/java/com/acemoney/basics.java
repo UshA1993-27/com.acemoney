@@ -8,7 +8,7 @@ public class basics {
 	@BeforeTest
 	public void setUp()
 	{
-		
+		System.out.println("this is selenium tutorial");
 		
 	}
 @Test
